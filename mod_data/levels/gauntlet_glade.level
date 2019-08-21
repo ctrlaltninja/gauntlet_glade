@@ -909,7 +909,7 @@ set_transform(2063,41.013794,-0.002792,-24.734133,0.000000,-0.077562,0.000000,1.
 add_object("forest_fallen_tree",14,12,3,2066,-0.000015)
 add_object("forest_fallen_tree",4,11,0,2068)
 set_transform(2068,12.635834,0.000000,-32.363419,0.000000,0.657600,0.000000,1.000000,1.000000,1.000000)
-add_object("chest",7,11,1,2086)
+add_object("chest",7,11,3,2086)
 set_loot(2086,"dynamite")
 add_object("spellbook",11,9,0,2089,-0.388184)
 add_object("grass_chest",7,11,3,2107)
